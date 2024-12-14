@@ -21,6 +21,7 @@ Additionally, there is a `dayN.txt` file that contains the input for that day, a
 | 9   | 00:33:53 | 00:23:38 | 00:57:31 |
 | 10  | 00:14:41 | 00:51:23 | 01:06:04 |
 | 11  | 00:09:24 | 00:03:52 | 00:13:16 |
+| 12  | 00:16:06 | 00:40:46 | 00:56:52 |
 
 
 ## Use of AI
