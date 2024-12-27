@@ -27,6 +27,7 @@ Additionally, there is a `dayN.txt` file that contains the input for that day, a
 | 15  | 00:18:39 | 00:16:03 | 00:34:42 |
 | 16  | 00:52:53 | 01:58:19 | 02:51:12 |
 | 17  | 00:26:28 | 01:15:10 | 01:41:38 |
+| 18  | 00:20:38 | 00:03:21 | 00:23:59 |
 
 ## Use of AI
 GitHub Copilot inline suggestions were used at times while solving puzzles, however Copilot Chat and other generative AI software were never used while solving puzzles.
